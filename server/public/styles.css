@@ -1,0 +1,12 @@
+.no-border {
+  border: none;
+}
+.card-deck {
+  margin: 1.5rem 0;
+}
+.card-img-top{
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
