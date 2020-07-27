@@ -1,12 +1,19 @@
-body {
+/* body {
   width: 1500px;
   height: 96vh;
   margin: auto;
-}
+} */
 
 #fix {
-  margin:auto;
-  width: 50%;
-  height:50%;
+  padding-top: 1rem;
+  margin: auto;
+  width: 100%;
+  height: 40%;
   object-fit: contain;
+}
+.fix{
+  height: 100%;
+}
+.margin {
+  margin-top: 1rem;
 }
